@@ -1,0 +1,2404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872381,
+          52.326533
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "source_reference": 1,
+        "name": "Small play area (with ping-pong table)",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v4V_woisJVG0Ap8QahV1qwDeW_UpQeGUPwdyYd7ERmyxyHz5NR-x6WJWRRFczAa-EFZAeLIa2b72i92Po7yQN90",
+          "https://lh3.googleusercontent.com/umsh/AN6v0v6B6LyYafDzCJXVRF_YLYQmmLIkvHfJUs3exS35zSxtXYVCyE0GyeNM0j_b6RBL7MeYmbPGJYX233E5jIq0MwAV"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "table_tennis",
+          "swing",
+          "sandbox",
+          "climbing_ropes",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "1 - Small play area (with ping-pong table)",
+        "source_description": "Features: sand pit, ping-pong table, swing, climbing ropes, bars Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873952,
+          52.325463
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "source_reference": 2,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v6gjsnjy-qBTRFZlFXdfRkTF9wEbiAD7XTA6FMDGTQM4VwOlVtd5149xDEaa7ePnXOJhaXX340dl17pELkkGJt8"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "playhouse"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "2 - Small play area (with slide)",
+        "source_description": "Features: playcenter with slide, swing, little house and sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873892,
+          52.326547
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "source_reference": 3,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v6MoyiNebWl_4BtpU9cIoQbeMHTKcWRcvzxuIl3Jt0ZJALDwCcjFbwT4sTiIdXOLWaCoVwc0Mv1M8pAKa8jetOE"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "seesaw"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "3 - Small play area (with slide)",
+        "source_description": "Features: play center with slide, swing, sand pit, seesaw Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876318,
+          52.326552
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "source_reference": 4,
+        "name": "Small play area (with swings)",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v62O-A3BRL8Mv9CoFC58wELw8cPXtho7bD7Buo0Wm8ZKG_FmR-kCB-5O4Y5g7chubJBVEGtfge1tMdH0DFr44fJ"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "climbing_bars",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "4 - Small play area (with swings)",
+        "source_description": "Features: swings, playcenter with slide, spring horse, bars, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.861162,
+          52.324792
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "source_reference": 5,
+        "name": "Small play area (with swing)",
+        "photos": [],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "5. - Small play area (with swing)",
+        "source_description": "Features: swing, slide, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8613886,
+          52.3256806
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "source_reference": 6,
+        "name": "Speeltuin Goudestein",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5ChDdX96zYF1XriGQevoCcqbFPfEhfS-vKdOBtvrorcd7T3qtUV8Ko8c8NA6yJhHj-dBSju-DaOc-lkuplyDMfKtf3UuLz5vn9BYEOO7GMUtRecFrHIZ64At0T9pZtzYniLWP__BFZ7WFGs_AFI5UbK4tnu34n4akHPLyQIF2aw7GSDvV05_4PrML8XRKT66ZE_vVq?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6wbKc3cBZF0OdaHqU5ZuNXxvvueQZczXxiAT0coJrDPYyehGbR49FuxXnqIZs-7oX5oKYssYmj-DibRhjRaDRL0cUpwlCALNyF3TN0_xM38LmUYiBmFTLkKVGhqo0tY6HbgXdj_JpdoBVf_Q1OF8_p1xPayLntAHO82KvoH2LCAMH0b0Fjh6Wd8sA32n2agPUqxKHb?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5wnE713AOKmAYWuDH9lm_J4oPpvuaKLlKa9iu23gKr4ae5e96ntEuHT5ugqCAdgVtRiugYOgky4c-CDjhX2NzWQ5MGwoIaSeodEwNovZt4ixPE1xQaVHfTRLCw8HbvmmbEl_ThURQWRrmhtuUkJMk3DpOdc3osUO-WbhYPeux-CMyYa6XWqSdtn2n4SaHudD8s6k7a?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "park",
+        "features": [
+          "baby_swing",
+          "swing"
+        ],
+        "size": "large",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "6 - Large park (with baby swings)",
+        "source_description": "Speeltuin Goudestein"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.883769,
+          52.33233
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "source_reference": 7,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v7VPu9UBHGa0wBgXJU3TJGIGLyIear4iSFi5nE4cZPn6ypdOO9yRJTzmUizK8aO0-gk_9VAoW6JfjrYqCpURLcP"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "slide",
+          "table"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "7 - Small play area (with slide)",
+        "source_description": "Features: slide, table Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877768,
+          52.332342
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "source_reference": 8,
+        "name": "Medium play area (wooden play center)",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v7iwoKvRYttr_ll1n3Z4dRfPPlOibwDtHEbYqLqd9_p4jEEfMP9Wbh1akev-IvHeAW8OLucoFAhNSBFa7u6D7Lk"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "play_structure",
+          "wooden_play_structure"
+        ],
+        "size": "medium",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "8 - Medium play area (wooden play center)",
+        "source_description": "Features: wooden playcenter Dimension: medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87421,
+          52.332312
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "source_reference": 9,
+        "name": "Small play area",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v6Kr3OfXpFnhCU7IJTHT9SqTKSkTw_MYMbrDmXg2EOCAOmR4gH3fu5PE8wQHBcF-ACof3KqtQO74okhB2NoXiNl"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_bars",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "9 - Small play area",
+        "source_description": "Features: sand pit, bars, climbing structure Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871291,
+          52.332257
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "source_reference": 10,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5om1wn10i8oEVvHdHaAAj-2OJfRKXWjfXqakyY1SCUL8BLRU12mh8QIOA1msmCvMvBtMkkweBOhMlw8YCGd7jznZfFtXUSPO--ug7e4ddlCP8dynhVgz4VDVZSk2qAJExii0zHGYDRRBjYA0w2MJur5uByrgzxvVT8TYjJGR5tT4BiSsQgnTKgRNbWXgHo44MvF1rM?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7Mh3HX5G2IVUu_WeBn78cs9Wn6PKsN8sLat9Jyg0rTtLhIU2YcSJ9LB8nxY3jUh03M0gAIyyc86SlEvUVsSD0fxp_sWGn3DXUkeU3VFhnZGjjMRB8ZQRlpwbozJzFi08AGoKlkuePx0p81YUuivoUCH6nR2ep7C4gjohFNY9lwokEUWS1bNq1QdQAB37-BdQUqFQL5?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "igloo"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "10 - Small play area",
+        "source_description": "Features: sand pit, iglo Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.869903,
+          52.332208
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "source_reference": 11,
+        "name": "Small play area",
+        "photos": [
+          "https://lh3.googleusercontent.com/umsh/AN6v0v6go5FDrHuY6lUaMIzQpkOrp5FatGnhfSlUoG4mdfIaqoF6kQ5KIZuqcD6vGRtuRXoNn9yqsf8XmtqZ3cy12Lzs"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_bars",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "11 - Small play area",
+        "source_description": "Features: bars, sand pit, climbing structure Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8947198,
+          52.3332743
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "source_reference": 12,
+        "name": "Steffens Recreatie",
+        "photos": [],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "park",
+        "features": [],
+        "size": "large",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "12. - Large park",
+        "source_description": "Steffens Recreatie"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.848659,
+          52.324334
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "source_reference": 13,
+        "name": "Kleine Kinderbad",
+        "photos": [],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "paddling_pool"
+        ],
+        "size": "large",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "13. - Large play area (with pool)",
+        "source_description": "Kleine Kinderbad Features: pool Dimension: large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877767,
+          52.325537
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "source_reference": 14,
+        "name": "Small play area (with ping-pong table, swings)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7xfIFv-g5PNvfVc4BpRWqSh4OX2zwqedB8BdHjZJlE-dbflnSuP087abFsikQVNtjVLGQnzioifOH_bCJeWFI6YSVD3-Fui3kgnDjRlt8goXPOgcq5v4eIqjfB6OuT--FIS4BWHIwahrklNtt3ZBEACtVozW99NluAOcoDUDnx_ngQpEsxUeIv4TU5-cel2Ne1yLQ?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "table_tennis",
+          "swing",
+          "slide",
+          "play_structure",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "14 - Small play area (with ping-pong table, swings)",
+        "source_description": "Features: playcenter with slide, swings, bars, ping-pong table Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.878045,
+          52.327236
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "source_reference": 15,
+        "name": "Small play area (with baby swing)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4UNNdsDMRE0nwLU7H7XREGC9xB7TaakI0CzixeN_nHQ2BBYzshRyAmsLlOvZc7UbS2NSveqS_PIKsLl8LzQhaFojDwz-Q8SEB6NgIMF--YzlZhUPYnSesIZnb0TLMVXa23UW9Mv5t6aLkIicb9PfDv51GyhKaKkhT3ONqDL7UVO9DdPaw_zI7xPd6asMo1LoZ5DCI?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "baby_swing",
+          "swing",
+          "slide",
+          "climbing_bars",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "15 - Small play area (with baby swing)",
+        "source_description": "Features: slide, swings (1 for baby/toddler), spring horse, bars Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.885959,
+          52.328712
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "source_reference": 16,
+        "name": "Large park (with wooden features)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5BE5fQhRHN_BqR79grwTQKgZuXGY2O7Oi-k93qk4h_rplrGWdKWIyqwg7BwppKFyvGN97ycBPg_4AGSWwjTBY5RWdmY5gR8xDQXrxDLaRPV0dXQhIztGBOUcC-OQY1RHe_Ay4nuHDdkKg7g7S83RxedmVKonurHJK4n8YKPNeJJdpOq0cK9DybBSwf0izB7KX1nIM?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5zDhNFogyjmU3991DsENK8_kmwhkLIMl2mpoa2wbosfL1J3ZVwaYdhTs-N4pV1GqM-v-Rai4T9Ab57Vd0sCeSiHabkBwfpt5zvwucZMujmIFSix5Ph5sM7iQnzBpybf0mJFebOQQYoyLQLx9woF7YpsBCS0gdUjdIXd8QajBTV5VqGKhF-_OxixI4VknDc28nS-1M?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5KK5PsIcmkMw1au99Jfhin0EeiZ4hOh3lWpKfbfojPglNJ4tlW50We5pvylWXmSWGBKaTJTjk0TgO9MR6QqD_LbCnZoGal1vLP-i9Y-oKgABa8EGZhvBqfLURXs-TqXrVTKuymZe16nvIIP9nthV8plBCSkiAJa_zBvb3RDax_f2_LaX5AWBqIZo2oJNycz_rr9ZE?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4HnZNpi4V9OQsddO7RTIvW1vMSGX-Ni5-2l3l4DIluxPD3vZRSic0mFV1kLfMP-PJ9fmuw5RXpEodsNZ4NjoA_l_IHL92KpxdivBAwa_jcmS-panty9yG0ZEueZHsgwJdGTcvrpFPQLopTMk-v65OnFr0CjiMuJh_e-VPk0MqRnYACOmHt9z7I4HEvSz8AV0CqJ6E?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5DoZaKw-hlmGhsEYlO6aPuhza9gRGpIpZ3h2LDkzL4aTRO08iZBlUA3o_lLuogG7FCslelKtmz6LOKnKZaqykrRPyiwZ3aMgsDF27xMw_v5vj-Q_Z3cJti67AmYJqtcXvoDscJJePOyevwhFUy4a0o608lgoXKjAGDKUAe4GfkwF0FA-qwljK5qgv2alMEwiATkI0?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7So6JlKf6Hrp4oZ_KMZLgFRfU0hvcafTYsXCd3U4S-xUe7Ek41nVSd6p4rxphuJO7EDBtV0KaR1u8054teriBveTzHikNZ_VI98c6hVXXesvNXWoadtQHqlH5dOYawxAOEbTW229F2PpEGUxnV_Jc4WuR_ltZPKft8AUnU3tDRILDaLbQAUjE4GCQAN2SepnQ9wpc?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5mkMEst-vFdxy-QPuLrGEqqEZEWSj5nM9mXaPNkyomfXIp3jZKmMVqUMORrHr388MMVREI5X4RtJeZkx8qx6W5cJqLjB1iyPU_hV0NPUtLfhJ9XzAus9rM3PJixJpvYxHsn_vlLm8iHSn8XRs2wKM7aUXwT7A5ZGzXhdzoWGLPaMbGDFBTZymfopv6W5SVuOaAfno?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "park",
+        "features": [
+          "swing",
+          "slide",
+          "climbing_bars",
+          "playhouse",
+          "spring_rider",
+          "wooden_adventure_play",
+          "play_ship"
+        ],
+        "size": "large",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "16 - Large park (with wooden features)",
+        "source_description": "Features: wooden adventure park. Slide, swing, spring horse, bars, house, ship Dimension: large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87413889,
+          52.33127778
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "source_reference": 17,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6GYIAq1rw50-Zx6c3-9pxxUbRgqOLUFTgqu1MAXccx8jvfnS0BxIfCIsLbGBbH3JOiXu5FjSWQLNubmtGpkPEW_s74ipZu93veibOloHWpbPsvGD5LzEoq1ceHgZP_JPpmg9m1tI5yE6i2J8u-K3q2sbPcxWf8KeTGL8lFAN08r2QmiLX577SiNbHD9-UgtMQL01o?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5YQ2iy1gpIvooK-0Lc_s7neFwcBete7dYJT3xgIqw-kWW9h3EOe7IvuVuBQCXQMAzg4hvo8DeE6-s7nRlFDcQdu80egmttXIVMjeFXGpS-TSgT8HXVSoCc_qc3huSca-a1HNsZ28wXlfyncj5LWIqGplFfnjXYlM7dyIIThdd4q82MiCWJmPUlgvMSLmPOiUai2MU?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "slide",
+          "play_structure",
+          "seesaw"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "17 - Small play area (with slide)",
+        "source_description": "Features: playcenter with slide, swing, see-saw Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872874,
+          52.331482
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "source_reference": 18,
+        "name": "Small play area (with slide, ping-pong table)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5ToO3jNBfqEfBjdUSkkq6a-_qybx9Ui-f5WOqdtk8akyyUNcdX2_Pp7uA6AB91uPy95KL8LdU8lHeE3isiBTgiKhYZBMTBHy076I-ApzsRqkMdn1Ox6Fb59C8CDev2fjvUGl6QxzaxNShCUMEawO5Dz-9eKmLJj0Dqm0ewfHRXzqLofx9C0D_J5Z1lwkcDYpCMYzM?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "table_tennis",
+          "slide",
+          "play_structure",
+          "climbing_structure",
+          "spring_rider"
+        ],
+        "size": "medium",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "18 - Small play area (with slide, ping-pong table)",
+        "source_description": "Features: playcenter with slide, spring horse, climbing structure, ping-pong table Dimension: medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871443,
+          52.331517
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "source_reference": 19,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7KLBzqpyD2N_N7NrU5duHMyjwGopJUm1e1eH3Cyy1qgxy1ngjemaw9wznEKtQ6bdni2HeB_Y7d7Oi8mjBDpb6AKlNy7N1LT4CSMduDzlGgLriekk3hnQRWLqm8NmQRvR7nj8DF-8tP052cub01Vt1T3a6_j1SEC3caB43oldvho3IzKBSVI9tzUTWvAkZ4me5Lruo?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_structure"
+        ],
+        "size": "medium",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "19 - Small play area",
+        "source_description": "Features: sand box, climbing structure Dimension: medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.864919,
+          52.324771
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "source_reference": 20,
+        "name": "Small play area (with slide, ping-pong table)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6VweL5mUrnORJ5Fs3M5j_QVUUMRA_BaGaKiwnNU-yojCX2tVg570LFG78DjX48En6EhtkyB-5dvzb2J642v1QOzA8A-auj5aDZDGHfSjrrEL-aVrrAfNzy4v0i25-gZIBuMhQIpEfK-1JTod6777ZesRE8_5DWVVn8bCKfuhfM3Rk1VEBedeOa1etcsRKKyx0IpI4?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "table_tennis",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "20 - Small play area (with slide, ping-pong table)",
+        "source_description": "Features: playcenter with slide, sand pit, bars, ping-pong table Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.870022,
+          52.326478
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "source_reference": 21,
+        "name": "Small play area (with swing)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6iT_erVfkR9lklUoo4ESGHlq2GtVkhbIsRaCSZ2H5ctJjUu74zJnWeLXJBlmYDX5umFRg-dER10B9t-y5bMkXUALhrU11NR8YXdwCOiNEF89LEP-VpqMUb6dO0EYq5sZQAtvc6_23_wv65oupU_ttaOmSs6NT5-CJB2b2SviwHUv5wi1wIYdSx8t58hWrgOp3kl2U?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "21 - Small play area (with swing)",
+        "source_description": "Features: playcenter with slide, swing, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8849,
+          52.330142
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "source_reference": 22,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4wg4tIgVJIsd0gdwutYoNrBLwagziAFzEmaKRFosTxyCQOHW_tJZgXqAXZS5dWsod7WxqZe76cERmmddaGLbFOaHF4mZrC4Wy2LHn1AW6wfE8ZlmMB3pdXyhMwpxBe_h3rQkKTIPdbNmupo66cFXMzkuzv9dZGnSnJfgvot5g3QRNWWwjqrbx0hLG2VnEJVSiZ9ys?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "climbing_bars",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "22 - Small play area",
+        "source_description": "Features: bars, spring horse Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886402,
+          52.330257
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "source_reference": 23,
+        "name": "Small play area (with swings, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6-Uq4orfkesDLJ5kGQR-L0K-r4_3GduCWgW3eMeVQIOTkpzD__NweklZjs9X7YP_lAPxG3pr1vOPuE84U_cViw_QkHgz34_TWxyyirQjv0CeG6UodsDrFFzlPz8XEoMUU_JM9oPm4rUnKhk4BMFut1Uz4o390t-ZS6N3gSl5lN6AaOGGse9Xwvwoeiie2tAKcemog?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "slide",
+          "play_structure",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "23 - Small play area (with swings, slide)",
+        "source_description": "Features: climbing structure, playcenter with slide, swings Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.866792,
+          52.328342
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "source_reference": 24,
+        "name": "Small play area (with baby swing)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7rG6hXSKTrTeU7YkywdywdAJrBCUFBDH-21rSq5ZjdGVkzikO31zOc9RN82fEwxNgI4mE6P-gHr-S4cTTiuA0heqHGUbqdu9WLjdgHMePjDBUDuTCr3OP3fMAJnSf0mu-qZgpAJJoabc5OraFSD6bpJ29SclVXwO3i2kGcagSaDUNu2MlDox6r6SNW-9Hxjlbw7QY?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "baby_swing",
+          "swing",
+          "sandbox",
+          "climbing_bars",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "24 - Small play area (with baby swing)",
+        "source_description": "Features: bars, climbing structure, sand pit, baby/toddler swing Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.885389,
+          52.332667
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "source_reference": 25,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4PU5MKOd1-glDWEvKo-UE-50wlWNquvJSW8XJlihi2OozDHg6CB71_HuvJ-VGDI5R9e8-BBzivvp2Phq-ecAkbdZDdmBWrGRLgw8UdASxxCR3MmCg5JVYoosFH6_M7s87phvGx6ivs8FGA25bgv7l5D_YwwpJE2NK2egGY0f8acp5aFKHPeeoCMsmqqW6M7_5YQrM?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5AkvlpXCwWjN6XvcRKjGhJ13sgGOfLlya4TzYcWItf0XkCceDxN6yTt2XSdDBd2mMaPP-nEjeYvm91kxy6gnqLo8DPqeQXRVSTUgC_PXrFCcyyT8Oo64_TG8N5ICh9jIbnjjHG5zIYhZgwud1vUOH64IMz4nMnfnRalJ0v8UoBTUEF92wOyMIBTMjQ8MScyBbXoBc?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "slide",
+          "play_structure",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "25 - Small play area (with slide)",
+        "source_description": "Features: swing, playcenter with slide, bars Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886827,
+          52.332691
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "source_reference": 26,
+        "name": "Small play area (with swing, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7RpwGWsGb9B10GzpEaJoDv5iozTuDlM5GUzw9WWa8WLCQzS4ra9OAjx9EWbQ5sZvNYvtp4bnL2EfAXYUAJeGsBWu3tLbcW7swW90cQrWys9fzD9Kv-60zRj_Nu60e0SXcQvL7jelMtIMXI0dhyKUrNPi4XhI8JJNwIp0RqkGrdzApreLwf7gMo3AUokq-bYcwzGgo?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "slide",
+          "play_structure",
+          "pirate_ship_play_structure",
+          "climbing_bars",
+          "play_ship"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "26 - Small play area (with swing, slide)",
+        "source_description": "Features: swing, bars, pirate ship playcenter with slide Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887743,
+          52.327512
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "source_reference": 27,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR63xc9TaNoUyWiGnosQc_ItVVoLcjGkJd90d3uXT5Oscm5vOCrybJ1zJSJsw9QdvGaxVzgcyn6zOAM-lVFLAIDqSUsSD_JTOHrDsG6gSLMz1p-oBZ6Nd-DSxmjrV7_1KFEe0KWjHq2yhTPnzQ7huW4a-UXpwmCtNXzxNA6bvx0NxH4YQNhtLyB9g6jBK_XI6l7VPTw?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "slide",
+          "seesaw",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "27 - Small play area (with slide)",
+        "source_description": "Features: slide, see-saw-, spring horse, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.884347,
+          52.326742
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "source_reference": 28,
+        "name": "Small play area (with slides)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4ZNq3MAWluvUyP6f2gcLaQU-oisX3Q3is6XwS24De0JS8B-Fexb36rjS0O57nRQA3eB3Q4tzUWc5fnMBtuw4kFUX0ThYWOV5DKRV6xcMN5C1Z6ljeGiPwYWpg5o-mPDnDopfvK7KcsLt9mfXp7Gc5jf0Cp-bRzPRmzoV6Buztv-Nvmof41fBzk9K9zIG8dZCYhK_0?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "slide",
+          "play_structure",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "28 - Small play area (with slides)",
+        "source_description": "Features: slides, climbing structure, playcenter with slide, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8747861,
+          52.3243306
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "source_reference": 29,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6gcBhZXIKnnubLlV1AO2Ht2Kz5VDP5QG2rq5PUVc7U_y8Rzm6lVyy2lERzhk6EjXAyYpU7ofomRDN9aHcqyGFnm11qY1HBrRRjRpS6xr82GjySoAXbUKJKYLaa80UoeQ5AiOgYjO6I0I57HHWnYibRWGonma0HkRLF1enZtq1oaJfFvPPSc3-B-CCdwk5APlWh_FQ?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "29 - Small play area (with slide)",
+        "source_description": "Features: swings, climbing structure, slide, sand box Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8786324,
+          52.3243798
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "source_reference": 30,
+        "name": "Small play area (with slide and swings)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6b-wn-Oab-WCwp_7duXSGaS9r3pRqruAjb_sa1lo2AtsWsjwxquryk02FzswKRsbOGde4a2VUkvGhM7E6M5tcEw_XGLbtBeKcUnCJXREbqDdklsIylc_rJNUEU0aRmThcs_c-Pn7LIt0g-xXS4DSk38nbI8oqkXwf5J_8ihJRsEzI5yT2rI78hMuz3rCK3W7vdRoY?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "30 - Small play area (with slide and swings)",
+        "source_description": "Features: swings, climbing structure, playcenter with slide, sandbox Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8811406,
+          52.3245019
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "source_reference": 31,
+        "name": "Large park",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7VlBoPTQstgjdB1QhhxYFXF9kLbB3_L30oUZNI3QdeYltGn78v5_krtqeqFkYZ2fqBi3vR0q-jl298v-sUrySeiAuWhrvqrmPFHAEFPzlJDPhf6GO4pf8VsqntBsE0iLLBBvbxqjntny-nDtHxf2NZC_Bb1vofHs36GnA9s-tAb1ZfVXPdFAHHdYyv_K4RzJWQjrA?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR63Sz-iEQZO7m4qMMMvT0E93kjUuInUbjre3EoQt8T3pSgDiYLdyilT31q5Nu_Umv87WvTV6W0aFlUHkJ33Ow4-fJycIg0Fc2I94DBVOYO7_8Z2f3j6ZFJcZ0zet0qc-13OHImrsTD8mZWzYnttxE30X5RX-rqPCEGdS1YcFN6bhpgvwhACu1GhZ6TLcN2pdX7d7Sw?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "park",
+        "features": [
+          "swing",
+          "slide",
+          "play_structure",
+          "pirate_ship_play_structure",
+          "climbing_ropes",
+          "playhouse",
+          "skatepark",
+          "football",
+          "play_ship"
+        ],
+        "size": "large",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "31 - Large park",
+        "source_description": "Features: swings, houses, pirate ship playcenter with slide, ropes, skate park, football field Dimension: large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8648512,
+          52.3272879
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "source_reference": 32,
+        "name": "Small play area (with swing)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6gzNQXs-wZXAXM8gTaUGvqT0nyxdA9y70XSuSMy6Jjc6zzzJu_yJLWj6zCtzWvte87MGe-wHcfKSRviaaiI2BDgbx2lF1h-ddsTlMEn9kxFqfjI6mFlEdlD5XCUt5kHBUVtrfgssN2wuXk2aqZXiX1twsb-GKCsv_2324_O8yyhCjjHzCJ6yJk9ykyX70zrmHOik0?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "climbing_structure",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "32 - Small play area (with swing)",
+        "source_description": "Features: swing, spring horse, climbing structure, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8645488,
+          52.3284153
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "source_reference": 33,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR75_jUq314aHOtWHKqQUPe3yuoInrJxQuk1POOPiuG_Za0r18N9z0eTrxhAQ5TmxiLSvahIc7m1rFHNqp9aYqKlplaiTCwFx-5AIvSuVFAO65xH3Fo062cKJdeuRl_l4HxV1J2Av8VQ32dUzEsthyWxIbCBYeLVgzPvl-658IO0qnwm74ZUJT3hB9jfUR-If0U2wFs?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "33 - Small play area",
+        "source_description": "Features: bars Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8610908,
+          52.3272977
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "source_reference": 34,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR48VWH9KKF2Bt22kj6WKaYqZ42gJ_p3ds6mY7htc4Ms5b0ErOKqG95507KLsLioqDD6Ok095wOBZ0GNcjIAyuUo-dGZomIdUGdH0W-sCuhll2MU9N8SLK1lCH59UgDTo_oxG4zouk9m1QmbfFEmWNAxfS0Xt6MmTPN38lACY5qWUBh0dw0_B2n760HWd8iRM7QfJ_Y?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_structure",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "34 - Small play area",
+        "source_description": "Features: climbing structure, spring horse, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8764384,
+          52.3255995
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "source_reference": 35,
+        "name": "Small play area (with swings, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6iRRYdcFOrEmekAfNqQR3DxLoY50kAyMFurG_c4VwWwsVoVJ4SyChktGTd5phReY5u0QUg_XSFxz-g1n64wgby_-FSfG07-fjrBOHFZiOMWYMJrBkXkmNRQLkfplzSlzWGG_J18w4p4SGCrlLUwYA8Nr58EVssjHNmHikkkkIjNcuHY4oR7tBBz_B1lHNEowTdVCs?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4JXXqYJPL6RQTq2hi6NIff8MCo2WzSiNcOt3bj7RZm-9UWaewIy-7iuBu83Hm8R_l-tXgEWACotH6xEHKykV7ZV2fP4av0CLLZR1w8Ysp7rMZZGrBASxyX08NO0HDnzbu6qxHjGXnKlPmnw450llzA9ktpcWOA0z5hEUnJON4M9sV2vFpKN1HCK40Wh9NI5UmrY08?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "spring_rider",
+          "hopscotch"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "35 - Small play area (with swings, slide)",
+        "source_description": "Features:  swings, playcenter with slide, spring horse, sand pit, hopscotch Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8718733,
+          52.3302515
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "source_reference": 36,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6XMqVC4Y2-1qdb4BHfO33h9Yo-yNwnBaZ4CCIM3ft55L4ryiiq0hy_XRN5Z3zUsHvhwpQLoVf8H3j_us6YCM0hiffV2LldRGHiv_r7ZSmzXXsmIramXL30kXZtp9LxL0krEUC5pJh12L8jdOn4QMzK8Rp2e1iRFwxyX6EXT3TnVsounvxO4MIQ07UrNOt8YFvlLTc?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "playhouse"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "36 - Small play area",
+        "source_description": "Features: house, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8699421,
+          52.3314382
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "source_reference": 37,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR69VlSsRH8HNE5XKAlP-zTmSZ7UEO66TXGdQQPaKX1lFlfteIiQOo_LkeB6QMrTySlr4ILX0DRc7FTHFPvX-fET6Mp8B8RjnHIFqFT5dEYFElpHYkniWkz5IdRf8aNK4q5aHJGB83Yu7i8jm9m9C6RtkCdHSy6WMLb3TLMstc29T8SLJzVPR-9EkrJIZ5RI8MtIEnY?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_structure",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "37 - Small play area",
+        "source_description": "Features: spring horse, sand pit, climbing structure Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8838627,
+          52.3314612
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "source_reference": 38,
+        "name": "Small play area (with swings)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR50LslhHltCpYp5nUK678mc9v3Li4F09nlp-jRXarFRPjUOaMBZ7ZJdx0J6yxITC2UPbn0xIThTo158467f9_TUgYwzE7uA1whaGYSASQoS-DcDX5b7ZKU8LvIJxPXcap1FROLCQNW2gOG0Ts0_BdvaCLEVsUqvM9_sz0SnyFb4Y5yqnLDOF0YoSaKokbz2e53GM68?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "climbing_structure",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "38 - Small play area (with swings)",
+        "source_description": "Features: swings, climbing structure, spring horse, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8855203,
+          52.3314448
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "source_reference": 39,
+        "name": "Small play area (with swings)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4QihJNIWpP0CuEFAloE3S-7YI7sG3Beq-da8Lc52vsrAmmrlaArV46mj6Y0Cho3TQvzHPJxpALIAdl75wqSQgIwQF-aJoHv_xhxdc7g49bS78wCjmZLFFgNWE8_jVlz4NT0JczwCGavIHjZFCr52zg4UIapViMVeZcALgl_dozph9NXOUPgr9AAEsaUG9rVwWGrxU?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR50sFMB1bt8SwT-g1JDvJ_XayXKSSuoHUwHTxFg8c-nkSnyD515Z_zcn3hQ2lH0Az8Kr5E8038K7g-29xf9gZsQyHFzh2UerWjNjBB6YAg_VqwU9tbLowIT1PphzRga1ORO4OA8gogjDAY24cqOF6rWF_sexk-TL96Cd3MZF4bp2gJ--EpVY3otBlqbWGy6koRn0AQ?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "table_tennis",
+          "swing"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "39 - Small play area (with swings)",
+        "source_description": "Features: swings, ping-pong table Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8867702,
+          52.3315858
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "source_reference": 40,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4ocExDwvc-UW438ONBosUar4sn4FyRrMW5D9Jux55vv-YYRp8ZrqRSKpCCpJCEY00Mgro6nLnFJLzcguC3K2DGar2oTFVNjGYMouasWoAcyFsbjNFX_xkhZAGt-irFy2wZagnYHOrfRfcYhC-TAEz8MTyTgG3yBg63F3n2kh8lA4pUc5I2m3UsMLknpO8OLwZ4Azo?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "slide",
+          "spring_rider"
+        ],
+        "size": "medium",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "40 - Small play area (with slide)",
+        "source_description": "Features: slide, spring horse, sand pit Dimension: medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8858958,
+          52.3255896
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "source_reference": 41,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5RHFEjTUfPIBkk-qN7AfJoAklm9GYLUzIf2pPP_wvcDCrk4jmgPkyWz-wp9Wso18TNLw_UKPWBoUBnA_ufxeGQzE-UWoV1vf7b_yBykk6GUSYis8TA3Q_Yg4c2HOvsnEnFaOlk-lOMXj5qymk2dP07dGwoS3DQaQ6fPPhociLCcG1-TWLQmcLUPYE3fqBRVRxCEkI?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "41 - Small play area",
+        "source_description": "Features: bars, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8875266,
+          52.3245437
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "source_reference": 42,
+        "name": "Small play area (with swings, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7TpJ0Fvh0RwKf-djQ2uhPbBcMVwDWSItoLkG3z2zi3hV7WFN6ElxhmIWEn2PC9YEpqYwiMhgEJcCuv59NCZPYceQXYZwtTnDYGsN9gPGRLbay66Um2czXbfhBQo3vbTDkJWZAJMlESyQrDPsGo6H5aEBNoCsGZ0BlL4pmE-a_b1bpWisWl43FsFQ4eY-JrdnJEGJM?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "42 - Small play area (with swings, slide)",
+        "source_description": "Features: swings, slide, bars, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.883624,
+          52.3244749
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "source_reference": 43,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6W0YZMuVC1J4lsGzzfrtqLYsO1Nt812QeCetW17hBoyTxNVmJqPy02BrLFPrGCXHb19bn6K3hrxqQ3E02A1zyY4olGQOl4DQcCpktOaVJIrbqHcYM01Rz1bFmZ_ku7LfZzBZXzn5bStcwyL3S6ZeHrMNphh9ylkOGy2PVQLi9tsLyKqoOKH-9fh9ljkdUBwBMVZDw?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "slide",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "43 - Small play area (with slide)",
+        "source_description": "Features: slide, bars, sand pit Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8777258,
+          52.3266125
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "source_reference": 44,
+        "name": "Small play area (with swing, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7UoiJ_5IKrJ4MQUhCCTJv7cO-X7HzPrsQf8W1vnRUDXSmBRszgpD7Bn1dY7ndfXwV_S7Z7_lJy-jAthwqhQw5swsmpX2p_sJKKrskTGsLo4r2xpNJxaRBlwne2RBXfQ0FZBmMNqyPrwIbLlf-A79wBHjOm5arOJQNommyobD8S7LwYIFOpptyh92bl8XZ9Nxcnydw?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "net_swing",
+          "swing",
+          "slide",
+          "play_structure",
+          "wooden_play_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "44 - Small play area (with swing, slide)",
+        "source_description": "Features: net swing, wooden playcenter with slide Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8773986,
+          52.3337657
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "source_reference": 45,
+        "name": "Small play area (with slide, swing)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4dgAlD9dSQ6BnGF-QTb8_jWnRvHnS3kgdcyH37VD23gIZ_4tDNBwFM1rFy-i2lLU-f0NPRwEpHo0h00ZlS4-vGwyVhbF1T3p_G1DQERKIUhxKHhe1Ia5_bwIQtGLlC0Bh9SDw0lFeex2ZuRYISTlGIl3gR72h_jM3pGG0UdVc0j56gfnyxOLPzsHfYlE7blF21CCU?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "slide",
+          "play_structure",
+          "climbing_bars"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "45 - Small play area (with slide, swing)",
+        "source_description": "Features: swing, playcenter with slide, bars Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8740458,
+          52.3337394
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "source_reference": 46,
+        "name": "Small play area (with swing)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4z6Pkwc_qKldRwhhbnyq4Lsvmacw0HFk_0yOB5UtICfRgAVt_dxitE2q6DEjgsGMb3c0rSyusWD7__NTYVRxZMtEeZYzqt5aqGILURwROe2ZQkBrnCkbHHdEE9e9IDMaPsHDkhiqJodEGvuATsjiFjXNFZji-0obw96Z2Kg6kC5wz1aDsHDtuUd_4DPGbenVkmMZY?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7hRxG5w9xL3YSN4uwMz3weXDrcxJ1flJ_GCOcSR2ktjMLhrVUnTAaFqNErsJiLj4ZN-lsJOGtu9TBW9WIPsSWxC-HEA_F-0oHiMGqHEtYPBdkdip5GZci6_d65wMD1pnpyTYhkt952LFkfJ9aLbLG2IWXdWURPztjQM3rMeahxeN7CqboBQeUZtZIHdEYg-JzXSBs?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "climbing_ropes",
+          "roundabout"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "46 - Small play area (with swing)",
+        "source_description": "Features: swing, ropes, merry-go-round Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8727208,
+          52.3342869
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "source_reference": 47,
+        "name": "Small play area (with slide, ping-pong table)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4akZ2uwk3zrRbVkaRaT88Fm7htaa6LMUhphxd2zd_yPFrkD2bBGBFd3265LtHoABzxsEw-F8Qjl4ACrnZAFoBZlX4_TO_nehLyTtmofP4rltpAHM5-eLovQR1zfnmyuku06AUp51cw3OX3BN4a_mbuF1TrsA3zLjeAx5w2HUGZs_fLGIrEt2OhvuGrwtEwY5W-GqQ?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4jrnugNiJ1cIUFdW9Xxm7e35k4b0zIIpsAYDd_E_vsDqzfROZT1nRixmzpbfHXSmyX1VNgWent053aIsXi--_NDhXYw8UnbsIvxW3LFcdQo_a0_GXXbcBCXwoH6e8fY0_QSSulz0nEGp_2D1eZLTrZhJXBfN_Witgon4m46Y-4cNgZDFOthCCAjjC1CHfnp32VoAc?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4K0kmnJygDlJ7RIMWc7xUYb3RpbPIWqMD8WTdcusSrGTceOD-dBS2nXyV-MShtvq5VMCu4BUP_NCvaTtvSGgrH_uPjAx49l3-lgQnxMk1CekkfiWRBNLyEalxBDXaWYaU7SVhovC7ryKtYEZzi8lWo_A6IgKFHcfsv--smqt5uCxX2ZucwjWNV0Axs6TYncYB0Gus?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7bvxEJR5zcDcIoRKjvd-iHqQ3S10tgp5tWCrWUAg5ugc58deodJjOkKiZXv7qI6gYVbGyx2cBSoVQhCR0X35mLo8CeFGKmoubGoPlgGnUUhTAieuPDesn7INxfML0BGZbcVHdGdNfxAqXNQaIHCaRkPt5dOJKzS834bzpcOOp0s9RESQ5dcfElU0gwbnYMSQE1Nww?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "table_tennis",
+          "slide",
+          "seesaw",
+          "basketball"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "47 - Small play area (with slide, ping-pong table)",
+        "source_description": "Features: seesaw, slide, basketball court, ping-pong table Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87131,
+          52.3340279
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "source_reference": 48,
+        "name": "Small play area (with slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7yIQc07zxJcC1YiRwAe_xGsqEsP9EI9xI3BKpmLUpoJxx_emcxxUIswmaaeDtPz_aqWjFx37X6c6lA3ATN0t6NNx461MIM2BVkwkRjkFSTML7aBZKegEQDw_Si4_FHb-oKUzpf-cMiWqgEFX4BBWlGkQdPyjAcajj7QbUg6FZRvFsoOzjC6xXDFuqKCV6o4QrQk7c?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7SzYSFekCqpMGZoT9cafJpj5QPd2IRTb4Tes_OVe76rPn_Z12y06mYlveHIymOdfrOewklWxUpM5A0gKK_mlxNW_x77PBpRUyeTjiti3R_tXgohZ1mBxuh6XvJkHz8rG-2-ONIPjLrvhMSnIbCjuZxIjM1rRssapoiqUpMc47XPi9XXeKv3ZzeIZqK7mmAKXjQM-Y?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "slide",
+          "play_structure",
+          "climbing_bars",
+          "spring_rider"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "48 - Small play area (with slide)",
+        "source_description": "Features: playcenter with slide, spring horse,  bars Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8728174,
+          52.3322676
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "source_reference": 49,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5WlmWH4XZCY265c48vWyfVeLE-BVuUSB_lIw25koCpozvEwKspEQNxi8G5GNxbS7nP0bUuev3xAxPeBu9NkeF39RtgfL0qPgsdIXvXns1G9wjoDu2Ga9u2z7_u-IgO_5iJEPrCBIWpZPEfo-HAw_93NGUe3uJL0WhYbiC1zWRQ47U9NUfR_RESkJg-2_NZK5OMb24?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "climbing_bars",
+          "climbing_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "49 - Small play area",
+        "source_description": "Features: sand pit, bars, climbing structure Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8708057,
+          52.3242519
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "source_reference": 50,
+        "name": "Small play area (with swing, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4K-7nU_cRJ3Ckev6p5imf5mwe1AT7LVMAuYW7TOEsStU82QWLRuKKWYztidr1pephNV5QsEdRz-dWfWei42SxyNGpJIBsWxYMdJGO_y5uQ2vwKoQJvCh3nf5BM1u4yKKfTXPlY0nnKDM_e2EX0KW-A5JEHySexIrsIgls4OLHwXPLJwFxv-hKuOFp88jmeNdywtaU?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7ux2bM88sR7Gf-f_8IEA7TW8SXJBQO5kvSkj7GAAORZKz0_ww2vAnLjpOJvPoaejJFoiYQ4y-pqntCUXDfu61t_ALvWD38E2BBAVNgvfIYhf7EJJXjC2JX0QGI1RN46CoNPpjf-1aLjYaCH1r3nq-nm3BojcdEJbt4Qd_QziUbLH3KChuJ4RYxYew2qFiB_PyGm2Y?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "climbing_ladder",
+          "hopscotch"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "50 - Small play area (with swing, slide)",
+        "source_description": "Features: swing, ladders, playcenter with slide, sandbox, hopscotch Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8858047,
+          52.3267896
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "source_reference": 51,
+        "name": "Small play area (with swings, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7SAPF9JlTYCV3GnGSN8E4-S8cdEwHY0QUyqth-NosEZpJH_6a3R5zWrN1tvKuMbcL-ws7I8rfAAh5xGeqEL8KzzD6Mlv_QBhuZFmr1oZqHJv1sQEVQRdz8rfZrNwvrhQtnM7uafLYdxoSyZH7ncepefd3GmaUQJ685Owd38kMbF_4H7t7ltjpNsfYIimPf6TLRVeI?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4ovVuToI9am0mPu0p5F1TkZM4-LoCaAdgqSqKLObp9AtS7xeHmLG5CHHImVbEYPF5E9Zep6DgiWpKHcHc5RfOjSBU9d-PDzwrQV8o7ytuulkF5cIJ9689d40ecgNGZhDc4yVCvZa6xflIHp5LRdFFQPpBKhNrwBpJlt2uG-UNT4zE-VOM-h8qfyhrw8q8M5VlwYxY?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "slide",
+          "spring_rider",
+          "hopscotch",
+          "balance_play",
+          "picnic_table"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "51 - Small play area (with swings, slide)",
+        "source_description": "Features: 2 swings, slide, spring horse, hopscotch, balancing pole, 2 picnic tables Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8700225,
+          52.325406
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "source_reference": 52,
+        "name": "Small play area (with swing, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6VsOCCH5Ewdes0AARIDFzhoYx5VESJ7IRQRxVBXU8Pp7r8oA_ihYTXcKcQzd0lplUykHTzOAwEtcv_744GBB7DlZzRSYNTbGL9zNFNIxmwDP6unK0LHA8d7f7oAwmY-s1CsnQYr03WbvjLlpXbLIG76rFUgJ1S9FuJH1VDHFX6xnH5sEhj8RFED0I8zrnEN_BJmSg?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7_0YboK9Mx7JeErUY8YfkxqI8wyXqf5wlqT1p0S6v6RxdwhxIhZE8hPviq28Y4ieYcFT1kxs8s0rGOwXJXdvExchdZQIz2FndhkV6fwm8AHxaeMJEW6fJVkqOKCE5z4nvgE1fPxEl5-2CO3esp3VanL_KDyz5YimNLZFaKrnEPYgpvoiN_z6MJr-WRJNJjX_HaRVs?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5s-ERgaKydzpYTLDqSiiY2fpMJmKA5VmcJgKfCGNuTOasoNTdemUOqBtoyBHTqfJaUglTJ_HB6XsfMFpLLD9BKvNIJr8Iv3jJXngFOtmR-9nKXUJahJ78NTC7AK2H5Y7wcReVKmVVnldkKMoVv6yywqujSHtJgkK7O_v_WQ8BwF0bZUlO5dKtkmPg6JAeovPMeQ2M?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "swing",
+          "sandbox",
+          "slide",
+          "play_structure",
+          "seesaw",
+          "climbing_ladder",
+          "hopscotch"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "52 - Small play area (with swing, slide)",
+        "source_description": "Features: sandbox, swing, ladder, playcenter with slide, seesaw, hopscotch Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872458,
+          52.3254716
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "source_reference": 53,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR66k-_YiyOrDaLxGtjGL1JaZvzP_6dpjaRZ28mW99viesDNcCibJQx3Oy_TBhMM_EW9Y-IB9xi3rBINT9zpEfvuXvMwl-NRM9WvvcK9U2C3BFIotA7iCPbOM-KtfHLhuhItDJ6bJYftaRha15Ik1pbbTURyDgtG8Z7YGnwigEO0itDSOJBxyiqWA7nuaDadfQQsuCw?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "slide",
+          "climbing_bars",
+          "seesaw",
+          "table",
+          "balance_play",
+          "picnic_table"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "53 - Small play area",
+        "source_description": "With slide, balancing bar, climbing bars, seesaw, sandbox, picnic table"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8599213,
+          52.328478
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "source_reference": 54,
+        "name": "Small play area (under construction)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6Y0kDrPUuc0kQv9R-HORnkBr05kaQDSeNdLjuizdcF5uBcm6zxav4TZOG6Px7Kpt3s7M6SRzPvs9T2hvA8KiINm5LLR7ZBopNpZmThUNX1lQXHhcKDRySS3k7H530TrIztZZ3D5UMe6QPhq08d4yoYK8mM3OQgLHSB-wmLv9UCycO_wPHpd9LGcRsFq6Jpq0u5trc?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6gInyjo3Q10D_6kE6Yf-jUgTuV5Ebb7YHn-ift6hGzdzGf815H0mPbD7New5jVzop7FOYzMO3aoI2u3Q_Tvvix6CsVEoC2MIt9VIa65xoFFiIBbD3r5WTc24tq162Vrl7dywgwEtu4opFvqB5WSUqLkgJKjdGFntGqPS6HiIOhD5rYBk2cPwbptqAHVRncRlOCiJ8?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4cr_FJ-PlsRJmmbPqHcoBJccEzUqFhKqtCbbSKSVIpWsQn7OuV0JaqNGnjIgGw1ARR7OPjremDBUMI4U_LX_CRIJJSTbyqfNOeNGS9a-qUgybMQMX41gVrEdJL3DKux3o1xgPr7vnxI9t1eL4gC6hbQejLHkn02m-vyBMGPcDFvC-HN73hPQKdAYg2Cqe11ASteH0?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR64wE22ajaVTG3cEp5GzCXCEJ9XHIoIhYTzgJjFsrERRfUVJ2ZBrb7_try4AtzCR5L-YWTfN49iLNGW39MLkFMHt7C1aCtcwpowUMGvmwlz-c1b0xf8fPzRvboh9k3b7dD6EScCHlJpw4dLhgwFr-Qwir-e7QXqICuWvb4rObeYoqoYlxPd8wlnNpCoKJjqlmgEOqo?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "sandbox",
+          "hopscotch"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": "under_construction",
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "54 - Small play area (under construction)",
+        "source_description": "With hopscotch and sandbox"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8831975,
+          52.3302679
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "source_reference": null,
+        "name": "Sportclub",
+        "photos": [],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "sports_club",
+        "features": [],
+        "size": null,
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "sportclub",
+        "source_description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8810527,
+          52.3341358
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "source_reference": 55,
+        "name": "Small play area (with baby swing, slide)",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4o0G_K9hbZM37Vu3GZit8hZNLlS8MBiNenXBIcBEChkXJdxmHIGqgi4Ih8vC_TTw3zqt4x8yG1tJhJKtclch4vWsxZvC0ekvawVrZyxdKrG67JV2aDkYVgVHL2N29GpTQO4s6eDb-wwEi6QQOyeBvBmJsF8Sxfb06N3_Ki8q-W8njiqo8AgtZvsb8b1KfZWKjM7FE?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "baby_swing",
+          "swing",
+          "slide",
+          "seesaw",
+          "artificial_grass"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "55 - Small play area (with baby swing, slide)",
+        "source_description": "Features: slide, seesaw, 2 swings (includes 1 baby swing) - artificial grass Dimension: small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8602454,
+          52.3228447
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "source_reference": 56,
+        "name": "Football field",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4oeOfvv1xm3M0cGaOgDxeaJrz4ZnfYjICOsxFvy5CTgDDP_MPZtSwifTRmeGxvxIwhDmvj7THes3DztEyq9W8JeVZ2Zp6TgXNGEVDUgKGjnrEwVhMB0B2JyStM7QObQT__t4RWOGkF1zSsXprNgXTG_YttfN3EGXxC_23I5BsSRki7n3cLymTXjE3Y7Sg7yagxIC4?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "sports_field",
+        "features": [
+          "football"
+        ],
+        "size": null,
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "56 - Football field",
+        "source_description": "Football field"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8706016,
+          52.3358592
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "source_reference": 57,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5WfTLkRVhvpRXzwaQiex3tJObKmMmSVyI7F87EBOkTpTLB_ghobk15j3Ui-vu4lzYa4m2w47CdLwQgD4zmXqjHoAoISOMKWQH6A5VsWW6DaHvBpLcHQ_EvjUUOMwQsVg0CfAxtKGUfSU6LPJwaIKIhJUTKzqQmjsg1YEytXIEqNNbU1mIy1_P7TBT0fTAYbSR-uwg?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "climbing_bars",
+          "bench"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "57 - Small play area",
+        "source_description": "With benches and bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8711334,
+          52.3358217
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "source_reference": 58,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5ofjVdZZdF-0-DSKn_LkO7bPDA7Gf0mDCfF1sRJUwMbu4GoCFnQFUrz64OFYQNCRdjTpTsePMxiOLx-Wdc0m-xMBYB61GXvD5aTbdxqA-U5OUt2PBzCV6Rs5fR0K8LioCgI9NRv-fzcso6heNkLmX1P620H4fBnP3n7rdUwe4xTfqrXnMWoe3EauBH2dITYBv4zcw?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "play_structure"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "58 - Small play area",
+        "source_description": "With a playcenter"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8750472,
+          52.335761
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "source_reference": 59,
+        "name": "Small play area",
+        "photos": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6t1GGyocUHX_sjUZXMgw7wvskRSd4XOM5pH0XcUQukYaH9MmCmE9QaMepOhiUjiOp_V-g5EBmCOAybch92B9HuTZEU_E3I2Z89b4Gln1T3O_dcoEwtkTFtD_xFDen46qXlsGKezAyvm3vG_tJtBAJeClVw9qJ31Ee6pDk_IEJUXvqOdiCVn0CdWhoYXhwbZDcfOAc?authuser=0&fife=s16383"
+        ],
+        "setting": "outdoor",
+        "price_type": null,
+        "type": "playground",
+        "features": [
+          "balance_play",
+          "spinning_play"
+        ],
+        "size": "small",
+        "rating": null,
+        "rating_count": null,
+        "minimum_age": null,
+        "maximum_age": null,
+        "description": null,
+        "url": null,
+        "status": null,
+        "last_verified": null,
+        "source": "user_google_my_maps",
+        "source_name": "59 - Small play area",
+        "source_description": "With balancing and gyratory devices"
+      }
+    }
+  ]
+}
